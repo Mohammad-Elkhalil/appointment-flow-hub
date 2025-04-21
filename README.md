@@ -1,25 +1,6 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/2bccc8c7-658a-4e52-96e7-08a6eb685140
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/2bccc8c7-658a-4e52-96e7-08a6eb685140) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+# Welcome to MediTrack website (This website is totally done by: Khaled Nasser, Mohammad Elkhalil, Ali Alaaedine)
 
 **Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
 Follow these steps:
 
 ```sh
@@ -60,21 +41,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2bccc8c7-658a-4e52-96e7-08a6eb685140) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
 ## MySQL Backend Integration
 
-This application now includes a MySQL backend server for production use. The backend provides:
+The website also includes a MySQL backend server. The backend provides:
 
 - Authentication and authorization with JWT tokens
 - MySQL database for data persistence
